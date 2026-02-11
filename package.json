@@ -61,7 +61,7 @@
     "husky": "^9.0.0",
     "lint-staged": "^15.0.0",
     "oxfmt": "^0.24.0",
-    "oxlint": "^1.39.0",
+    "oxlint": "^1.46.0",
     "typescript": "^5.9.0",
     "vitest": "^4.0.0"
   },
