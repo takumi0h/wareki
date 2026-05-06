@@ -59,7 +59,7 @@
   "devDependencies": {
     "@vitest/coverage-v8": "^4.0.0",
     "husky": "^9.0.0",
-    "lint-staged": "^16.4.0",
+    "lint-staged": "^17.0.2",
     "oxfmt": "^0.41.0",
     "oxlint": "^1.56.0",
     "typescript": "^5.9.0",
